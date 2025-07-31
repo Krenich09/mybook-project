@@ -1,0 +1,19 @@
+.button.is-primary {
+    background-color: #ff0000 !important;
+    border-color: #8f0909 !important;
+    color: white !important;
+}
+.hero.is-primary {
+    background-color: #ff0000 !important;
+    color: white !important;
+}
+
+a:not(.button):not(.has-text-light) {
+    color: #ff0000 !important;
+}
+
+
+.button.is-primary:hover {
+    background-color: #e60000 !important;
+    border-color: #7a0808 !important;
+}
